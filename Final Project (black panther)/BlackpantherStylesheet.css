@@ -1,0 +1,61 @@
+#firstPage{
+	height: 900px
+}
+#navBar{
+	/*display: inline;*/
+	display: inline;
+	/*background-color: white;*/
+	background-color: white;
+	width: 500px;
+	height: 500px;
+	color: white;
+}
+.Whitespace{
+	background-color: white
+	height: 50px;
+	width: 1000px;
+}
+#navBar ul{
+	display: inline;
+	margin: 0 auto;
+	padding: 0;
+	list-style-type: none;
+}
+
+#navBar a{
+	text-decoration: none;
+	color: white;
+	margin: 0 auto;
+	padding: 0;
+	list-style-type: none;
+}
+#bottomnavBar{
+	color: white;
+}
+#Summary{
+	background-color: red;
+	font-size: 25px;
+	height: 900px;
+}
+#Summary p{
+	width: 600px;
+	height: 400px; 
+}
+#Summary a{
+	font-size: 50px;
+}
+
+.Black{
+	width: 600px;
+	height: 839px;
+	font-color: blue;
+	align-self: center;
+}
+
+.BP{
+	display: inline-block;
+	font-size: 50px;
+	color: white;
+	margin: 10 auto;
+	padding: 0;
+}
