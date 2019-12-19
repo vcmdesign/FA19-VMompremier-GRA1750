@@ -1,0 +1,167 @@
+#firstPage{
+	height: 900px;
+}
+
+#homePage{
+	font-size: 100px;
+	height: 50px;
+	align-content: center;
+	color: white;
+	font-family: Century Gothic;
+}
+
+#navBar{
+	margin: 0 auto;
+	padding: 0;
+	display: inline;
+	/*background-color: white;*/
+	height: 500px;
+	color: white;
+	font-family: Arial
+}
+#navBar ul {
+	display: inline;
+	list-style: none;
+	margin: 0 auto;
+	padding: 0;
+	list-style-type: none;
+}
+#navBar li{
+	display: inline;
+	padding: 20px;
+}
+
+#navBar a{
+	text-decoration: none;
+	color: white;
+	margin: 0 auto;
+	padding: 0;
+	list-style-type: none;
+	font-size: 30px;
+
+}
+#navbar a:hover{
+	background-color: #7D2FBB;
+	transition: all 2s ease-out;
+}
+
+#bottomnavBar{
+	color: white;
+}
+
+#summaryPage{
+	align-self: center;
+	width: 1920px;
+	height: 900px;
+	margin: 0 auto;
+}
+
+.Summary{
+	font-size: 25px;
+	height: 50px;
+	align-content: center;
+	color: white;
+	font-family: garamond;
+
+}
+
+.Summary p{
+	width: 600px;
+	font-size: 50px;
+	text-decoration-line: underline;
+	text-decoration-style: solid;
+}
+
+.Summary a{
+	font-size: 40px;
+/*	background-color: red;*/
+/*	text-decoration: none;*/
+	color: white;
+}
+.Summary a p{
+	font-size: 30px;
+}
+
+.logo {
+	margin: 0 auto;
+	font-size: 50px;
+	color: white;
+}
+
+.bpLogo{
+	width: ‪100px;
+	height: 500px;
+}
+
+#bpLogo a{
+	color: white;
+;
+
+}
+.actualSummary{
+	width: 1000px;
+	height: 650px;
+}
+.actualSummary p{
+	align-content: left;
+	font-size: 50px;
+
+}
+
+#soundTrack{
+}
+
+.subTitle{
+	font-size: 40px;
+	color: #fff;
+}
+#list{
+	font-size: 30px;
+	align-self: right;
+	color:#fff;
+}
+.Black{
+	width: 600px;
+	height: 839px;
+	font-color: blue;
+	align-self: center;
+}
+
+#brain{
+	height: 100px;
+	width: 700px;
+}
+.castTable{
+	font-size: 25px;
+	color: white;
+}
+#director{
+	font-size: 50px;
+	color: white;
+	width: 900px;
+	height: 600px;
+}
+
+#ryanlogo{
+	height:500px;
+	width: 500px;
+}
+
+#Share{
+	font-size: 30px;
+	text-decoration-line: underline;
+	text-decoration-style: solid;
+	width: 70px;
+	margin: 0 auto;
+	padding: 0px 50px 0 50px;
+	color: #fff;
+	background-color: red;
+}
+.BP{
+	display: inline-block;
+	font-size: 50px;
+	color: white;
+	margin: 10 auto;
+	padding: 0;
+	background-color: red;
+}
